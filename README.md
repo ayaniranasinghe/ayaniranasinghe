@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayani Ranasinghe
-- 🎓  Student of University of Westminster,London
+- 🎓 undergraduate Student of University of Westminster,London
 - 🌱 I’m currently learning Computer Science
 - 🚀 Exploring the world of code..
 - 🌐 Check out my latest projects and contributions below!
