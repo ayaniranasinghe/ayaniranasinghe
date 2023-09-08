@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Ayani Ranasinghe
+- 🎓  Student of University of Westminster,London
+- 🌱 I’m currently learning Computer Science
+- 🚀 Exploring the world of code..
+- 🌐 Check out my latest projects and contributions below!
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayani-ranasinghe-b0b64127a/) 
+- 🌱 Always learning, always growing. Let's code the future together!
+- 📫 Reach me at: [uthsaririansinghe02@gmail.com]
